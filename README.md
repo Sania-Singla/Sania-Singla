@@ -8,7 +8,7 @@
 
 - **Frontend**: React, HTML, CSS, Tailwind, JavaScript
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB, MySQL, Oracle
+- **Database**: MongoDB, Mongoose, MySQL, Oracle
 - **Tools**: Git, Postman
 
 ## 📚 Current Learning Goals:
