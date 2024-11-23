@@ -1,7 +1,7 @@
 # 👨‍💻 Full Stack Developer
 
 ### 🎓 **Computer Science Student at PU Chandigarh**  
-🔧 Skilled in **MERN Stack**, **SQL**, **PL/SQL**  
+🔧 Skilled in **MERN Stack**, **SQL**, **PL/SQL**, **DBMS**  
 🌱 Exploring **Cloud Computing** and **Artificial Intelligence**
 
 ## 📈 Technologies & Tools
