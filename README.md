@@ -4,8 +4,6 @@
 🔧 Skilled in **MERN Stack**, **SQL**, **PL/SQL**  
 🌱 Exploring **Cloud Computing** and **Artificial Intelligence**
 
----
-
 ## 📈 Technologies & Tools
 
 ![MERN Stack](https://img.shields.io/badge/MERN-Stack-blue)
@@ -17,8 +15,6 @@
 - **Database**: MongoDB, MySQL, Oracle
 - **Tools**: Git, Postman
 
----
-
 ## 📚 Current Learning Goals:
 - 💡 **Artificial Intelligence**  
 - ☁️ **Cloud Architecture**  
@@ -27,15 +23,19 @@
 ## 🏆 Achievement:
 - 🚀 Currently working on a project for the **Ministry of AYUSH**, Government of India, associated with **Smart India Hackathon (SIH)**.
 
----
-
----
-
 ## 🌍 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sania-singla)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://x.com/sania_singla)
-[![Discord](https://img.shields.io/badge/Discord-Chat-purple?logo=discord)](https://discord.com/channels/@sania_singla)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram)](https://www.instagram.com/sania__singla)
-
----
+<div>
+  <a href="https://www.linkedin.com/in/sania-singla" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/sania_singla" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter" alt="Twitter" />
+  </a>
+  <a href="https://discord.com/channels/@sania_singla" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Chat-purple?logo=discord" alt="Discord" />
+  </a>
+  <a href="https://www.instagram.com/sania__singla" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram" alt="Instagram" />
+  </a>
+</div>
