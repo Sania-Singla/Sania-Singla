@@ -6,10 +6,6 @@
 
 ## 📈 Technologies & Tools
 
-![MERN Stack](https://img.shields.io/badge/MERN-Stack-blue)
-![SQL](https://img.shields.io/badge/SQL-orange)
-![PL/SQL](https://img.shields.io/badge/PL/SQL-lightblue)
-
 - **Frontend**: React, HTML, CSS, Tailwind, JavaScript
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, MySQL, Oracle
