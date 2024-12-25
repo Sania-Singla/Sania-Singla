@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Student** at **Panjab University, Chandigarh**  
 🔧 **Proficient in:** MERN Stack, SQL, PL/SQL, DBMS  
-🌱 **Currently Exploring:** Cloud Computing and Artificial Intelligence  
+🌱 **Currently Exploring:** Cloud Computing and webSockets
 
 ---
 
