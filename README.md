@@ -1,37 +1,22 @@
-# 👨‍💻 Full Stack Developer
-
-### 🎓 **Computer Science Student at PU Chandigarh**  
-🔧 Skilled in **MERN Stack**, **SQL**, **PL/SQL**, **DBMS**  
-🌱 Exploring **Cloud Computing** and **Artificial Intelligence**
+## 👩‍💻 Full Stack Developer
+🎓 Computer Science Student at PU Chandigarh
+🔧 Proficient in MERN Stack, SQL, PL/SQL, DBMS
+🌱 Currently exploring Cloud Computing and Artificial Intelligence
 
 ## 📈 Technologies & Tools
-
-- **Frontend**: React, HTML, CSS, Tailwind, JavaScript
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB, Mongoose, MySQL, Oracle
-- **Tools**: Git, Postman
-
-## 📚 Current Learning Goals:
-- 💡 **Artificial Intelligence**  
-- ☁️ **Cloud Architecture**  
-- ⚡ **Optimizing Full-Stack Development**
-
-## 🏆 Achievement:
-- 🚀 Currently working on a project for the **Ministry of AYUSH**, Government of India, associated with **Smart India Hackathon (SIH)**.
-
-## 🌍 Let's Connect!
-
-<div>
-  <a href="https://www.linkedin.com/in/sania-singla" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/sania_singla" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter" alt="Twitter" />
-  </a>
-  <a href="https://discord.com/channels/@sania_singla" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Chat-purple?logo=discord" alt="Discord" />
-  </a>
-  <a href="https://www.instagram.com/sania__singla" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram" alt="Instagram" />
-  </a>
-</div>
+**Frontend**: React, HTML, CSS, Tailwind, JavaScript
+**Backend**: Node.js, Express.js
+**Database**: MongoDB, Mongoose, MySQL, Oracle
+**Tools**: Git, Postman
+## 📚 Learning Goals
+💡 Artificial Intelligence
+☁️ Cloud Architecture
+⚡ Optimizing Full-Stack Development
+## 🏆 Achievements
+🏅 SIH Winner 2024: Worked on a project for the Ministry of AYUSH, Government of India, as part of the Smart India Hackathon (SIH).
+🎓 Reliance Undergraduate Scholar
+## 🌐 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/sania-singla)
+[Twitter](https://x.com/sania_singla)
+[Discord](https://discord.com/channels/@sania_singla)
+[Instagram](https://www.instagram.com/sania__singla)
