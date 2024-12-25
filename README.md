@@ -1,7 +1,7 @@
 # 👩‍💻 **Full Stack Developer**
 
-🎓 **Computer Science Student** at **Panjab University, Chandigarh**  
-🔧 **Proficient in:** MERN Stack, SQL, PL/SQL, DBMS  
+🎓 **Computer Science Student** at **Panjab University, Chandigarh** <sup>2nd</sup>
+🔧 **Proficient in:** MERN Stack, SQL, PL/SQL, DBMS 
 🌱 **Currently Exploring:** Cloud Computing and webSockets
 
 ---
@@ -28,7 +28,7 @@
 - 🏅 **SIH Winner 2024**  
    Contributed to a project for the **Ministry of AYUSH**, Government of India, as part of the **Smart India Hackathon (SIH)**.  
 
-- 🎓 **Reliance Undergraduate Scholar**  
+- 🎓 **Reliance Foundation Undergraduate Scholar**  
 
 ---
 
