@@ -8,10 +8,10 @@
 
 ## 📈 **Technologies & Tools**
 
-- **Frontend:** React, HTML, CSS, Tailwind, JavaScript  
-- **Backend:** Node.js, Express.js  
+- **Frontend:** React, HTML5, TailwindCSS, JavaScript, TypeScript  
+- **Backend:** Node.js, Express.js
 - **Database:** MongoDB, Mongoose, MySQL, Oracle  
-- **Tools:** Git, Postman  
+- **Tools:** Git, Postman
 
 ---
 
