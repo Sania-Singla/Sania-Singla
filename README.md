@@ -6,6 +6,15 @@
 
 ---
 
+## 🏆 **Achievements**
+
+- 🏅 **SIH Winner 2024**  
+   Contributed to a project for the **Ministry of AYUSH**, Government of India, as part of the **Smart India Hackathon (SIH)**.  
+
+- 🎓 **Reliance Foundation Undergraduate Scholar**  
+
+---
+
 ## 📈 **Technologies & Tools**
 
 - **Frontend:** React, HTML5, TailwindCSS, JavaScript, TypeScript  
@@ -19,17 +28,8 @@
 
 - 💡 **Artificial Intelligence:** Diving into machine learning and AI applications.  
 - ☁️ **Cloud Architecture:** Building scalable, cloud-native applications.  
-- ⚡ **Full-Stack Optimization:** Enhancing performance and user experience.  
-
----
-
-## 🏆 **Achievements**
-
-- 🏅 **SIH Winner 2024**  
-   Contributed to a project for the **Ministry of AYUSH**, Government of India, as part of the **Smart India Hackathon (SIH)**.  
-
-- 🎓 **Reliance Foundation Undergraduate Scholar**  
-
+- ⚡ **Full-Stack Optimization:** Enhancing performance and user experience.
+  
 ---
 
 ## 🌐 **Let's Connect**
