@@ -28,9 +28,9 @@
 ## 📈 **Technologies & Tools**
 
 - **Frontend:** React, HTML5, TailwindCSS, JavaScript, TypeScript  
-- **Backend:** Node.js, Express.js
+- **Backend:** Node.js, Express.js, Prisma, Drizzle
 - **Database:** MongoDB, Mongoose, MySQL, Oracle  
-- **Tools:** Git, Postman
+- **Tools:** Git, Postman, Docker, AWS
 
 ---
 
