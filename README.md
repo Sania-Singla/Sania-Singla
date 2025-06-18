@@ -6,7 +6,7 @@
 
 ---
 
-## 🏆 **Experience**
+## ⚙️ **Experience**
 
 - 🧑‍💻 **Full Stack Developer Intern @BringleTech** 
   - Worked on real-world service-based projects focused on water sanitization and rural bill collection systems,
