@@ -8,7 +8,7 @@
 
 ## 🏆 **Experience**
 
-- 🏅 **Full Stack Developer Intern @BringleTech** 
+- 🧑‍💻 **Full Stack Developer Intern @BringleTech** 
   - Worked on real-world service-based projects focused on water sanitization and rural bill collection systems,
      delivering scalable solutions tailored for village-level infrastructure.
   - Utilized Docker and AWS for production-grade deployments, and implemented data access layers using
