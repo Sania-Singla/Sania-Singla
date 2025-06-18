@@ -1,8 +1,8 @@
 # 👩‍💻 **Full Stack Developer**
 
 🎓 **2nd year Computer Science Student** at **Panjab University, Chandigarh**
-🔧 **Proficient in:** MERN Stack, SQL, PL/SQL, DBMS 
-🌱 **Currently Exploring:** Cloud Computing and webSockets
+🔧 **Proficient in:** Production Grade Web Development 
+🌱 **Currently Exploring:** DevOps
 
 ---
 
