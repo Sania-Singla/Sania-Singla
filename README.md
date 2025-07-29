@@ -5,8 +5,7 @@
 
 - 🧑‍💻 **Software Developer Intern @BringleTech**
   
-  - Worked on real-world service-based projects focused on water sanitization and rural bill collection systems,
-     delivering scalable solutions tailored for village-level infrastructure.
+  - Worked on multi-vender payment gateways and Database management.
   - Utilized Docker and AWS for production-grade deployments, and implemented data access layers using
      Prisma and Drizzle ORM for robust and efficient backend systems.
 
