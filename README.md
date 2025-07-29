@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and DevOps.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>AWS Services and Python.<br><br>💬 **Discuss about:**  <br>JavaScript, React, Node.js, Docker and any general software development questions.<br><br>
+🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and DevOps.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>AWS Services and Python.<br><br>💬 **Discuss about:**  <br>JavaScript, React, Node.js, Docker and in general software development.<br><br>
 
 ## ⚙️ **Experience**
 
