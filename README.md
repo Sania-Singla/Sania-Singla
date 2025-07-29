@@ -11,7 +11,7 @@
 
 ## 🏆 **Achievements**
 - 🏅 **SIH Winner 2024**  
-   Contributed to a project for the **Ministry of AYUSH**, Government of India, as part of the **Smart India Hackathon (SIH)**.  
+   Lead developer for a project of **Ministry of AYUSH**, Government of India, as part of the **Smart India Hackathon (SIH)**.  
 
 - 🎓 **Reliance Foundation Undergraduate Scholar**  
 
