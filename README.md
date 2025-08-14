@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🔭 **Currently Exploring -**  AWS Services | DevOps | Python.<br>👯 **collab on -**  Software Developement Projects<br>
+## 🔭 **Currently Exploring -**  AWS Services | DevOps | Python.<br><br>👯 **collab on -**  Software Developement Projects<br>
 
 *Let's build something great!*
 
