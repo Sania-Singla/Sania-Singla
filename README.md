@@ -45,9 +45,7 @@ Recipient of prestigious scholarship recognizing academic excellence and potenti
 
 ## Professional Networks
 
- [![Topmate](https://img.shields.io/badge/Topmate-%237289DA.svg?logo=topmate&logoColor=white)]([https://discord.com/channels/@sania_singla](https://topmate.io/sania_singla)) Let's have a chat !!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sania-singla/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@sania_singla)
+ [![Topmate](https://img.shields.io/badge/Topmate-%237289DA.svg?logo=topmate&logoColor=white)]([https://topmate.io/sania_singla](https://topmate.io/sania_singla)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sania-singla/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@sania_singla)
 
 ---
 
